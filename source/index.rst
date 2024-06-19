@@ -14,7 +14,7 @@
 
 * 博主主推，从来没有人讲过的影像组学课（他甚至做了一个违背祖宗的决定！）：https://www.bilibili.com/cheese/play/ss23044
 * 医生也能听得懂的机器学习人工智能课(教练，我想学python!)：https://class.dxy.cn/clazz/course/996
-* 小白也能听的懂的、跟老师讲的不太一样统计课（反正是免费的，你在担心什么？）：https://space.bilibili.com/7704237/channel/seriesdetail?sid=1071817&ctype=0
+* 小白也能听的懂的、跟老师讲的不太一样统计课（反正是免费的，你在担心什么？）：https://space.bilibili.com/7704237/channel/seriesdetail?sid=1071817
 * 超简单的人工智能、影像组学课(2020年录制入门课程)：https://class.dxy.cn/clazz/course/762
 
 
